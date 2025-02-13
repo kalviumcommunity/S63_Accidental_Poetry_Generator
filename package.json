@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/kalviumcommunity/S63_Accidental_Poetry_Generator/issues"
   },
-  "homepage": "https://github.com/kalviumcommunity/S63_Accidental_Poetry_Generator#readme"
+  "homepage": "https://github.com/kalviumcommunity/S63_Accidental_Poetry_Generator#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
